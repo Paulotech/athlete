@@ -1,12 +1,3 @@
-# athlete
-
-Wassup y'all! 
-
-This project is a challenge by Paulo Hericles(AKA Balrog), that come up with made a website for practice front-end habilities and later adpt it for Wordpress plataform.
-
-All knowledge acquired on this project: 
-(at the present moment)
-
 # ATHLETE Theme
 
 Wassup y'all! 
